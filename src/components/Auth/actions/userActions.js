@@ -1,7 +1,7 @@
 import { sessionService } from "redux-react-session";
 
 // the remote endpoint and local
-const currentUrl = "https://backend.oasis-one.com/";
+const currentUrl = "https://oasisoneserver.herokuapp.com/";
 
 export const loginUser = (
   credentials,

@@ -87,7 +87,7 @@ function App({ checked, tenant }) {
     console.log("tenant is: ", tenant);
 
     if (tenant.tenant_id != undefined) {
-      const newSocket = io("https://backend.oasis-one.com", {transports: ['polling']}, {
+      const newSocket = io("https://oasisoneserver.herokuapp.com", {transports: ['polling']}, {
         query: {
           tenant_id: tenant.tenant_id,
         },
@@ -105,7 +105,7 @@ function App({ checked, tenant }) {
 
   return (
     
-    <Router>
+    <Router basename="/oasisone_tenant">
       {checked && (
         <div className="app">
           <Switch>
