@@ -87,7 +87,7 @@ function App({ checked, tenant }) {
     console.log("tenant is: ", tenant);
 
     if (tenant.tenant_id != undefined) {
-      const newSocket = io("https://oasisoneserver.herokuapp.com", {transports: ['polling']}, {
+      const newSocket = io("http://localhost:5000", {transports: ['polling']}, {
         query: {
           tenant_id: tenant.tenant_id,
         },
