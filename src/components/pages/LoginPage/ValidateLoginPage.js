@@ -17,7 +17,7 @@ function ValidateLoginPage({loginUser}) {
   return (
     <div className="backgroundcontainer">
       <div className="innercontainer">
-        <div className="containertitle">Login For Oasis One</div>
+        <div className="containertitle">Login For La Carte</div>
         <div className="containerforms">
           <Formik
             initialValues={{ email: userEmail, password: "" }}

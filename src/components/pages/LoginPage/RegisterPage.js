@@ -28,7 +28,7 @@ function RegisterPage({ signupUser }) {
   return (
     <div className="backgroundcontainer">
       <div className="registerinnercontainer">
-        <div className="containertitle">Register For Oasis One</div>
+        <div className="containertitle">Register For La Carte</div>
         <div className="containerforms">
           <Formik
             initialValues={{
