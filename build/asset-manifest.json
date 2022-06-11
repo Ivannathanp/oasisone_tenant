@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/oasisone_tenant/static/css/main.9f38dc70.css",
-    "main.js": "/oasisone_tenant/static/js/main.56790870.js",
+    "main.js": "/oasisone_tenant/static/js/main.d6c5cd18.js",
     "static/js/746.09139ff0.chunk.js": "/oasisone_tenant/static/js/746.09139ff0.chunk.js",
     "static/js/858.239bf566.chunk.js": "/oasisone_tenant/static/js/858.239bf566.chunk.js",
     "static/js/686.a943310f.chunk.js": "/oasisone_tenant/static/js/686.a943310f.chunk.js",
@@ -10,13 +10,13 @@
     "index.html": "/oasisone_tenant/index.html",
     "static/media/RemoveCat.svg": "/oasisone_tenant/static/media/RemoveCat.f0cdaeaee4345dc9fd1579c088a76ba5.svg",
     "main.9f38dc70.css.map": "/oasisone_tenant/static/css/main.9f38dc70.css.map",
-    "main.56790870.js.map": "/oasisone_tenant/static/js/main.56790870.js.map",
+    "main.d6c5cd18.js.map": "/oasisone_tenant/static/js/main.d6c5cd18.js.map",
     "746.09139ff0.chunk.js.map": "/oasisone_tenant/static/js/746.09139ff0.chunk.js.map",
     "858.239bf566.chunk.js.map": "/oasisone_tenant/static/js/858.239bf566.chunk.js.map",
     "686.a943310f.chunk.js.map": "/oasisone_tenant/static/js/686.a943310f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9f38dc70.css",
-    "static/js/main.56790870.js"
+    "static/js/main.d6c5cd18.js"
   ]
 }
